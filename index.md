@@ -1,7 +1,7 @@
 ---
 layout: page
-title: And Sometimes Y Manx Morris & Sword
-tagline: Supporting tagline
+title: About Us
+tagline: 
 ---
 {% include JB/setup %}
 
@@ -11,17 +11,6 @@ We are currently fundraising to visit the Isle of Mann in July, 2013. Our goal i
 
 And then maybe a couple boxes (or links or whatever) with peeks of other pages, like latest blog post, or pictures from the gallery, or see our videos here.
 
-- [Manx Dancing](manx-dancing.html)
-- [Practices](practices.html)
-- [Upcoming Events](upcoming-events.html)
-- [Contact Us](contact.html)
+ASY on May Morning, 2011
 
-(There should be a picture of us, or something)
-    
-## Posts
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+![ASY on May Morning, 2011](http://farm9.staticflickr.com/8251/8458952911_50ae7e7817.jpg)!
