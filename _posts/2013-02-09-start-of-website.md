@@ -1,7 +1,7 @@
 ---
 layout: post
 category : events
-tags : [manx dancing]
+tags : [event]
 ---
 {% include JB/setup %}
 
