@@ -11,6 +11,8 @@ We are currently fundraising to visit the Isle of Mann in July, 2013. Our goal i
 
 And then maybe a couple boxes (or links or whatever) with peeks of other pages, like latest blog post, or pictures from the gallery, or see our videos here.
 
+Contact us at [asymanxmorrissword@gmail.com](mailto:asymanxmorrissword@gmail.com)
+
 ASY on May Morning, 2011
 
 ![ASY on May Morning, 2011](http://farm9.staticflickr.com/8251/8458952911_50ae7e7817.jpg)!
