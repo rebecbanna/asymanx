@@ -1,6 +1,7 @@
 /* Override some defaults */
 html, body {
   background-color: #eee;
+  font-family: "Open Sans", Verdana, Geneva, sans-serif;
 }
 
 h1 {
@@ -19,6 +20,10 @@ h3 {
   margin-left: 8px;
 }
 
+p {
+  font-size: 14px;
+}
+
 .navbar {
   margin-bottom: 0;
 }
@@ -26,6 +31,10 @@ h3 {
 .navbar .nav>li>a  {
   font-size: 14px;
   color: rgb(164, 164, 164);
+}
+
+.navbar .brand {
+  font-weight: 400;
 }
 
 .container > footer {
@@ -91,4 +100,3 @@ h3 {
 	border:1px solid #4C964D;
 	color:#FFF;
 }
-	
