@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Manx Dancing
-tagline: Supporting tagline
+tagline: 
 ---
 {% include JB/setup %}
 

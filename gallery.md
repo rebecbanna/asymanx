@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery
-tagline: Supporting tagline
+tagline: 
 ---
 {% include JB/setup %}
 

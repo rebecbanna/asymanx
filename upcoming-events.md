@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Upcoming Events
-tagline: Supporting tagline
+tagline: 
 ---
 {% include JB/setup %}
 

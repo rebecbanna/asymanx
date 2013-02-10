@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Practices
-tagline: Supporting tagline
+tagline: 
 ---
 {% include JB/setup %}
 
