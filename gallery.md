@@ -5,7 +5,7 @@ tagline:
 ---
 {% include JB/setup %}
 
-## Performing at the Guiding Star Grange, Greenfield Ma, February 22, 2013
+## Performing at the Guiding Star Grange, Greenfield Massachusetts, February 22, 2013
 
 ### Gourse Sticks 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/Z7QD_P_jGjs" frameborder="0" allowfullscreen="true"> </iframe>
