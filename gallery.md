@@ -8,10 +8,10 @@ tagline:
 ## Performing at the Guiding Star Grange, Greenfield Ma, February 22, 2013
 
 ### Gourse Sticks 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/Z7QD_P_jGjs" frameborder="0" allowfullscreen> </iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Z7QD_P_jGjs" frameborder="0" allowfullscreen="true"> </iframe>
 
 ### Mona's Delight
-<iframe width="560" height="315" src="http://www.youtube.com/embed/wJBMDDNoP-k" frameborder="0" allowfullscreen> </iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/wJBMDDNoP-k" frameborder="0" allowfullscreen="true"> </iframe>
 
 ## ASY on May Morning, 2011
 
